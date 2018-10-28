@@ -1,2 +1,2 @@
 # trinity
-Java spring mvc test project 
+This is a sample Java Spring MVC project using Maven for learning purpose. 
